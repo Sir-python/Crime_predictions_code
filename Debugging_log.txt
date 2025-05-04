@@ -1,0 +1,2 @@
+no missing values till preprocessing
+feature engineering scipt works well

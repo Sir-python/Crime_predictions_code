@@ -1,0 +1,11 @@
+Linear Regression metric scores
+--------------------------------
+MAE: 15.64, RMSE: 27.00, R²: 0.66
+
+
+LSTM metric scores
+---------------------
+1. MAE: 18.91, RMSE: 32.38, R²: 0.49
+2. MAE: 5.62, RMSE: 9.55, R²: 0.29
+3. MAE: 15.94, RMSE: 27.10, R²: 0.64
+4. MAE: 17.63, RMSE: 33.97, R²: 0.45

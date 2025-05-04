@@ -1,0 +1,37 @@
+1. Initially, raw data was imported into the notebook 
+   for the purpose of data processing
+
+2. Visualizations of numerical columns such as 'Age' and 'Gender' 
+   from the raw data was shown to show their distributions. (Might be omitted)
+
+3. Raw data is pre-processed using the pipeline script which includes:
+    -dropping identifier column such as 'SL'
+    -missing data removes by subsetting them from the original dataframe
+    -encoding of categorical features by frequency encoding and dropping original columns
+    -numerical features were handled by checking and imputing missing values with median values
+    -dates and times were separated and stored as new features which includes maing cyclical transformation for hour
+    -numerical columns were scaled using standscaler before going to feature engineering processes
+
+4. Feature engineering techniques used on the preprocessed data included:
+    -aggregating data using crime locations
+    -creaing interaction features such as total crimes within each police station/sub-district
+    -creating and storing a mapping dataframe of original crime locations for finding the crime hotspots after clusters are made
+    -removing non-numeric features and encoding cyclical features for day-of-week crime occurrences
+    -following through with feature scaling
+    -finding the optimal number of PCA components through explained variance (finding no. of components which explains at least 95% variance)
+     and generating a plot of explained variance against number of components
+    -applying PCA using the optimal number of components from previous step
+    -saving a copy of the dataframe
+
+5. Creating the k-means model required using the dataframe stored after preprocessing and performing feature engineering steps.
+   In order to find the optimal value of k, an elbow plot was used using the processed dataframe. 
+   The plot was based on inertia values (the distance between each data point and its centroid, squaring this distance, and summing these squares across one cluster) and to have less variance within clusters,
+   a k-means model was iterated over multiple k values, ranging from 1 to 11, before finally finding the optimal value of k which was 4.
+   Using the optimal value of 'k', the final clusters were made and a plot in 2D was created using t-SNE (t-distributed stochastic neighbor embedding) to visualize the clusters.
+   The cluster centroids were also found along with the silhouette score of the clusters. 
+
+6. Finding crime hotspots needed the saved mapping dataframe from earlier in feature engineering. The processed dataframe was merged with two features,
+   one being the number of cluster and the other being the crime location from the mapping dataframe. Using the saved index from the mapping dataframe, the merge is made possible and then
+   by grouping the dataframe by cluster and the crime location, the crime count was found and using it the crime hotspots per clusterr was established.
+
+

@@ -1,0 +1,2082 @@
+SL,Age,gender,PS/SD,Crime_Location,Crime_date,Crime_time,Allegation
+1,30,male,vulta,rupgonj,4/24/2022,1:55:00 PM,drugs
+2,32,male,vulta,rupgonj,4/24/2022,1:55:00 PM,drugs
+3,38,male,vulta,rupgonj,4/24/2022,1:55:00 PM,drugs
+4,32,male,vulta,rupgonj,4/24/2022,1:55:00 PM,drugs
+5,65,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,half murder
+6,30,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,half murder
+7,35,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,half murder
+8,45,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,half murder
+9,20,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,half murder
+10,35,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,half murder
+11,30,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,half murder
+12,23,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,half murder
+13,26,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,half murder
+14,23,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,half murder
+15,27,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,half murder
+16,30,male,sector#7,purbachol,12/29/2022,3:30:00 PM,murder
+17,30,male,sector#7,purbachol,12/29/2022,3:30:00 PM,murder
+18,29,male,sector#7,purbachol,12/29/2022,3:30:00 PM,murder
+19,65,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,extortion 
+20,30,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,extortion 
+21,35,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,extortion 
+22,45,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,extortion 
+23,20,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,extortion 
+24,35,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,extortion 
+25,30,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,extortion 
+26,23,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,extortion 
+27,26,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,extortion 
+28,23,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,extortion 
+29,27,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,extortion 
+30,65,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,robbery
+31,30,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,robbery
+32,35,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,robbery
+33,45,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,robbery
+34,20,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,robbery
+35,35,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,robbery
+36,30,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,robbery
+37,23,male,kala paharia,araihazar,6/9/2024,4:30:00 AM,robbery
+38,26,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,robbery
+39,23,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,robbery
+40,27,female,kala paharia,araihazar,6/9/2024,4:30:00 AM,robbery
+41,35,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+42,45,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+43,29,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+44,25,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+45,28,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+46,26,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+47,26,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+48,29,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+49,31,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+50,30,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+51,31,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+52,32,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+53,27,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+54,29,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+55,32,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+56,27,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+57,31,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+58,35,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+59,31,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Unlawful Assembly Membership
+60,35,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+61,45,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+62,29,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+63,25,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+64,28,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+65,26,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+66,26,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+67,29,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+68,31,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+69,30,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+70,31,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+71,32,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+72,27,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+73,29,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+74,32,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+75,27,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+76,31,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+77,35,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+78,31,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,Collective Criminal Liability
+79,35,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+80,45,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+81,29,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+82,25,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+83,28,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+84,26,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+85,26,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+86,29,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+87,31,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+88,30,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+89,31,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+90,32,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+91,27,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+92,29,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+93,32,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+94,27,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+95,31,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+96,35,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+97,31,male,daily time building,narayangonj sadar,12/2/2022,12:25:00 PM,theft
+98,35,male,nahati,rupgonj,11/19/2022,2:15:00 AM,robbery 
+99,22,male,nahati,rupgonj,11/19/2022,2:15:00 AM,robbery 
+100,29,male,nahati,rupgonj,11/19/2022,2:15:00 AM,robbery 
+101,30,male,nahati,rupgonj,11/19/2022,2:15:00 AM,robbery 
+102,32,male,nahati,rupgonj,11/19/2022,2:15:00 AM,robbery 
+103,19,male,nahati,rupgonj,11/19/2022,2:15:00 AM,robbery 
+104,25,male,nahati,rupgonj,11/19/2022,2:15:00 AM,robbery 
+105,22,male,nahati,rupgonj,11/19/2022,2:15:00 AM,robbery 
+106,19,male,nahati,rupgonj,11/19/2022,2:15:00 AM,robbery 
+107,41,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+108,39,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+109,43,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+110,45,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+111,20,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+112,26,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+113,65,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+114,38,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+115,20,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+116,25,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+117,35,female,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+118,40,female,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+119,25,female,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+120,60,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,half murder
+121,41,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+122,39,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+123,43,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+124,45,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+125,20,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+126,26,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+127,65,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+128,38,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+129,20,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+130,25,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+131,35,female,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+132,40,female,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+133,25,female,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+134,60,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,terror
+135,41,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+136,39,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+137,43,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+138,45,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+139,20,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+140,26,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+141,65,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+142,38,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+143,20,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+144,25,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+145,35,female,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+146,40,female,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+147,25,female,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+148,60,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,theft
+149,41,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+150,39,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+151,43,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+152,45,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+153,20,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+154,26,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+155,65,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+156,38,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+157,20,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+158,25,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+159,35,female,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+160,40,female,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+161,25,female,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+162,60,male,kala paharia,rupgonj,8/30/2024,6:00:00 AM,life threat
+163,35,male,kasipur,fatullah,10/2/2022,11:00:00 AM,life threat
+164,42,male,kasipur,fatullah,10/2/2022,11:00:00 AM,life threat
+165,50,male,kasipur,fatullah,10/2/2022,11:00:00 AM,life threat
+166,55,male,kasipur,fatullah,10/2/2022,11:00:00 AM,life threat
+167,32,male,kasipur,fatullah,10/2/2022,11:00:00 AM,life threat
+168,50,male,kasipur,fatullah,10/2/2022,11:00:00 AM,life threat
+169,34,male,kasipur,fatullah,10/2/2022,11:00:00 AM,life threat
+170,33,male,kasipur,fatullah,10/2/2022,11:00:00 AM,life threat
+171,33,male,kasipur,fatullah,10/2/2022,11:00:00 AM,life threat
+172,35,male,kasipur,fatullah,10/2/2022,11:00:00 AM,robbery 
+173,42,male,kasipur,fatullah,10/2/2022,11:00:00 AM,robbery 
+174,50,male,kasipur,fatullah,10/2/2022,11:00:00 AM,robbery 
+175,55,male,kasipur,fatullah,10/2/2022,11:00:00 AM,robbery 
+176,32,male,kasipur,fatullah,10/2/2022,11:00:00 AM,robbery 
+177,50,male,kasipur,fatullah,10/2/2022,11:00:00 AM,robbery 
+178,34,male,kasipur,fatullah,10/2/2022,11:00:00 AM,robbery 
+179,33,male,kasipur,fatullah,10/2/2022,11:00:00 AM,robbery 
+180,33,male,kasipur,fatullah,10/2/2022,11:00:00 AM,robbery 
+181,35,male,kasipur,fatullah,10/2/2022,11:00:00 AM,extortion 
+182,42,male,kasipur,fatullah,10/2/2022,11:00:00 AM,extortion 
+183,50,male,kasipur,fatullah,10/2/2022,11:00:00 AM,extortion 
+184,55,male,kasipur,fatullah,10/2/2022,11:00:00 AM,extortion 
+185,32,male,kasipur,fatullah,10/2/2022,11:00:00 AM,extortion 
+186,50,male,kasipur,fatullah,10/2/2022,11:00:00 AM,extortion 
+187,34,male,kasipur,fatullah,10/2/2022,11:00:00 AM,extortion 
+188,33,male,kasipur,fatullah,10/2/2022,11:00:00 AM,extortion 
+189,33,male,kasipur,fatullah,10/2/2022,11:00:00 AM,extortion 
+190,77,female,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+191,73,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+192,72,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+193,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+194,63,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+195,33,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+196,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+197,54,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+198,72,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+199,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+200,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+201,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+202,44,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+203,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+204,58,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+205,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+206,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+207,65,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+208,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+209,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+210,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+211,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+212,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+213,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+214,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+215,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+216,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+217,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+218,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+219,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+220,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+221,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+222,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+223,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+224,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+225,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+226,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+227,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+228,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+229,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+230,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+231,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+232,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+233,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+234,37,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+235,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+236,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+237,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+238,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+239,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+240,54,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+241,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+242,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+243,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+244,36,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+245,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+246,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+247,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+248,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+249,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+250,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+251,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+252,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+253,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+254,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+255,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+256,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+257,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+258,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+259,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+260,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+261,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+262,65,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+263,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+264,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+265,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+266,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+267,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+268,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+269,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+270,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+271,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+272,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+273,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+274,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+275,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+276,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+277,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+278,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+279,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+280,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+281,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+282,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+283,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+284,44,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+285,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+286,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+287,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+288,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+289,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+290,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+291,26,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+292,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+293,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+294,65,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+295,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+296,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+297,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+298,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+299,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+300,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+301,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+302,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+303,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+304,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+305,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+306,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+307,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+308,39,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+309,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+310,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+311,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+312,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+313,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+314,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+315,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+316,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+317,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+318,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+319,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+320,28,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+321,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+322,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+323,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+324,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+325,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+326,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+327,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+328,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+329,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+330,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+331,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+332,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+333,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+334,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+335,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+336,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+337,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+338,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+339,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+340,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+341,44,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+342,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+343,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+344,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+345,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,arms supply
+346,77,female,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+347,73,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+348,72,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+349,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+350,63,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+351,33,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+352,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+353,54,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+354,72,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+355,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+356,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+357,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+358,44,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+359,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+360,58,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+361,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+362,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+363,65,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+364,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+365,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+366,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+367,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+368,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+369,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+370,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+371,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+372,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+373,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+374,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+375,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+376,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+377,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+378,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+379,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+380,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+381,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+382,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+383,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+384,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+385,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+386,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+387,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+388,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+389,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+390,37,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+391,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+392,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+393,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+394,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+395,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+396,54,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+397,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+398,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+399,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+400,36,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+401,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+402,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+403,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+404,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+405,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+406,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+407,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+408,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+409,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+410,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+411,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+412,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+413,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+414,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+415,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+416,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+417,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+418,65,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+419,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+420,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+421,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+422,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+423,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+424,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+425,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+426,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+427,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+428,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+429,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+430,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+431,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+432,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+433,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+434,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+435,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+436,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+437,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+438,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+439,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+440,44,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+441,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+442,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+443,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+444,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+445,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+446,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+447,26,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+448,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+449,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+450,65,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+451,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+452,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+453,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+454,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+455,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+456,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+457,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+458,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+459,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+460,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+461,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+462,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+463,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+464,39,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+465,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+466,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+467,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+468,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+469,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+470,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+471,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+472,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+473,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+474,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+475,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+476,28,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+477,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+478,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+479,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+480,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+481,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+482,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+483,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+484,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+485,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+486,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+487,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+488,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+489,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+490,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+491,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+492,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+493,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+494,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+495,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+496,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+497,44,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+498,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+499,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+500,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+501,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,explosive supply 
+502,77,female,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+503,73,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+504,72,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+505,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+506,63,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+507,33,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+508,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+509,54,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+510,72,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+511,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+512,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+513,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+514,44,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+515,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+516,58,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+517,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+518,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+519,65,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+520,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+521,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+522,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+523,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+524,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+525,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+526,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+527,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+528,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+529,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+530,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+531,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+532,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+533,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+534,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+535,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+536,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+537,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+538,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+539,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+540,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+541,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+542,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+543,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+544,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+545,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+546,37,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+547,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+548,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+549,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+550,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+551,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+552,54,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+553,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+554,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+555,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+556,36,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+557,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+558,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+559,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+560,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+561,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+562,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+563,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+564,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+565,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+566,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+567,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+568,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+569,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+570,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+571,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+572,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+573,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+574,65,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+575,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+576,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+577,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+578,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+579,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+580,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+581,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+582,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+583,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+584,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+585,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+586,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+587,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+588,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+589,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+590,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+591,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+592,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+593,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+594,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+595,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+596,44,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+597,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+598,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+599,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+600,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+601,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+602,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+603,26,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+604,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+605,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+606,65,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+607,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+608,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+609,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+610,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+611,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+612,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+613,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+614,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+615,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+616,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+617,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+618,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+619,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+620,39,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+621,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+622,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+623,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+624,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+625,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+626,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+627,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+628,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+629,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+630,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+631,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+632,28,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+633,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+634,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+635,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+636,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+637,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+638,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+639,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+640,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+641,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+642,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+643,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+644,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+645,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+646,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+647,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+648,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+649,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+650,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+651,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+652,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+653,44,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+654,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+655,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+656,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+657,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,ordered to murder 
+658,77,female,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+659,73,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+660,72,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+661,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+662,63,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+663,33,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+664,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+665,54,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+666,72,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+667,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+668,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+669,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+670,44,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+671,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+672,58,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+673,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+674,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+675,65,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+676,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+677,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+678,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+679,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+680,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+681,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+682,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+683,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+684,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+685,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+686,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+687,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+688,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+689,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+690,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+691,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+692,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+693,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+694,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+695,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+696,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+697,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+698,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+699,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+700,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+701,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+702,37,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+703,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+704,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+705,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+706,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+707,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+708,54,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+709,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+710,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+711,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+712,36,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+713,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+714,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+715,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+716,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+717,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+718,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+719,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+720,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+721,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+722,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+723,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+724,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+725,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+726,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+727,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+728,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+729,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+730,65,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+731,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+732,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+733,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+734,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+735,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+736,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+737,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+738,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+739,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+740,52,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+741,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+742,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+743,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+744,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+745,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+746,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+747,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+748,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+749,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+750,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+751,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+752,44,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+753,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+754,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+755,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+756,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+757,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+758,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+759,26,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+760,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+761,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+762,65,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+763,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+764,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+765,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+766,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+767,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+768,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+769,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+770,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+771,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+772,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+773,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+774,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+775,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+776,39,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+777,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+778,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+779,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+780,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+781,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+782,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+783,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+784,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+785,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+786,46,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+787,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+788,28,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+789,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+790,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+791,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+792,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+793,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+794,35,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+795,32,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+796,48,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+797,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+798,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+799,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+800,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+801,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+802,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+803,40,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+804,38,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+805,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+806,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+807,60,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+808,45,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+809,44,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+810,50,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+811,47,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+812,55,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+813,42,male,sonargaon,sonargaon ,8/23/2024,8:10:00 AM,mob attack 
+814,32,male,vatipara,morgapara,12/18/2019,12:30:00 AM,unethical gathering 
+815,50,male,vatipara,morgapara,12/18/2019,12:30:00 AM,unethical gathering 
+816,40,female,vatipara,morgapara,12/18/2019,12:30:00 AM,unethical gathering 
+817,65,male,vatipara,morgapara,12/18/2019,12:30:00 AM,unethical gathering 
+818,34,male,vatipara,morgapara,12/18/2019,12:30:00 AM,unethical gathering 
+819,48,male,vatipara,morgapara,12/18/2019,12:30:00 AM,unethical gathering 
+820,33,male,vatipara,morgapara,12/18/2019,12:30:00 AM,unethical gathering 
+821,32,male,vatipara,morgapara,12/18/2019,12:30:00 AM,attack
+822,50,male,vatipara,morgapara,12/18/2019,12:30:00 AM,attack
+823,40,female,vatipara,morgapara,12/18/2019,12:30:00 AM,attack
+824,65,male,vatipara,morgapara,12/18/2019,12:30:00 AM,attack
+825,34,male,vatipara,morgapara,12/18/2019,12:30:00 AM,attack
+826,48,male,vatipara,morgapara,12/18/2019,12:30:00 AM,attack
+827,33,male,vatipara,morgapara,12/18/2019,12:30:00 AM,attack
+828,32,male,vatipara,morgapara,12/18/2019,12:30:00 AM,death threat
+829,50,male,vatipara,morgapara,12/18/2019,12:30:00 AM,death threat
+830,40,female,vatipara,morgapara,12/18/2019,12:30:00 AM,death threat
+831,65,male,vatipara,morgapara,12/18/2019,12:30:00 AM,death threat
+832,34,male,vatipara,morgapara,12/18/2019,12:30:00 AM,death threat
+833,48,male,vatipara,morgapara,12/18/2019,12:30:00 AM,death threat
+834,33,male,vatipara,morgapara,12/18/2019,12:30:00 AM,death threat
+835,32,male,vatipara,morgapara,12/18/2019,12:30:00 AM,loss of value 
+836,50,male,vatipara,morgapara,12/18/2019,12:30:00 AM,loss of value 
+837,40,female,vatipara,morgapara,12/18/2019,12:30:00 AM,loss of value 
+838,65,male,vatipara,morgapara,12/18/2019,12:30:00 AM,loss of value 
+839,34,male,vatipara,morgapara,12/18/2019,12:30:00 AM,loss of value 
+840,48,male,vatipara,morgapara,12/18/2019,12:30:00 AM,loss of value 
+841,33,male,vatipara,morgapara,12/18/2019,12:30:00 AM,loss of value 
+842,32,male,vatipara,morgapara,12/18/2019,12:30:00 AM,theft 
+843,50,male,vatipara,morgapara,12/18/2019,12:30:00 AM,theft 
+844,40,female,vatipara,morgapara,12/18/2019,12:30:00 AM,theft 
+845,65,male,vatipara,morgapara,12/18/2019,12:30:00 AM,theft 
+846,34,male,vatipara,morgapara,12/18/2019,12:30:00 AM,theft 
+847,48,male,vatipara,morgapara,12/18/2019,12:30:00 AM,theft 
+848,33,male,vatipara,morgapara,12/18/2019,12:30:00 AM,theft 
+849,32,male,vatipara,morgapara,12/18/2019,12:30:00 AM,half murder 
+850,50,male,vatipara,morgapara,12/18/2019,12:30:00 AM,half murder 
+851,40,female,vatipara,morgapara,12/18/2019,12:30:00 AM,half murder 
+852,65,male,vatipara,morgapara,12/18/2019,12:30:00 AM,half murder 
+853,34,male,vatipara,morgapara,12/18/2019,12:30:00 AM,half murder 
+854,48,male,vatipara,morgapara,12/18/2019,12:30:00 AM,half murder 
+855,33,male,vatipara,morgapara,12/18/2019,12:30:00 AM,half murder 
+856,19,male,sadipur,highway police,10/30/2024,4:30:00 PM,drugs
+857,72,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+858,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+859,50,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+860,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+861,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+862,30,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+863,39,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+864,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+865,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+866,38,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+867,31,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+868,29,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+869,48,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+870,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+871,50,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+872,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Cocktail explosion
+873,72,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+874,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+875,50,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+876,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+877,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+878,30,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+879,39,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+880,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+881,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+882,38,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+883,31,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+884,29,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+885,48,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+886,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+887,50,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+888,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,Illegal gatheringing
+889,72,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+890,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+891,50,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+892,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+893,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+894,30,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+895,39,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+896,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+897,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+898,38,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+899,31,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+900,29,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+901,48,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+902,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+903,50,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+904,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,illegal arms
+905,72,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+906,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+907,50,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+908,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+909,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+910,30,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+911,39,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+912,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+913,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+914,38,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+915,31,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+916,29,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+917,48,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+918,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+919,50,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+920,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,murder 
+921,72,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+922,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+923,50,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+924,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+925,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+926,30,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+927,39,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+928,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+929,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+930,38,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+931,31,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+932,29,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+933,48,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+934,55,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+935,50,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+936,35,male,narayangonj sadar,narayangonj sadar,8/17/2019,6:30:00 PM,delivering explosives
+937,77,female,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+938,73,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+939,72,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+940,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+941,63,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+942,33,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+943,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+944,54,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+945,72,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+946,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+947,64,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+948,47,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+949,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+950,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+951,47,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+952,44,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+953,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+954,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+955,48,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+956,46,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+957,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+958,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+959,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+960,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+961,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+962,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+963,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+964,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+965,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+966,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+967,32,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+968,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+969,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+970,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+971,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+972,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+973,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+974,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+975,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+976,65,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+977,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+978,46,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+979,65,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+980,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+981,37,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+982,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+983,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+984,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+985,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+986,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+987,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+988,28,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+989,26,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+990,47,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+991,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+992,36,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+993,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+994,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+995,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+996,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+997,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+998,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+999,28,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1000,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1001,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1002,33,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1003,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1004,65,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1005,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1006,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1007,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1008,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1009,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1010,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1011,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1012,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1013,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1014,65,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1015,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1016,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1017,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1018,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1019,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1020,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1021,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1022,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1023,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1024,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1025,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1026,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1027,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1028,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1029,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1030,36,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1031,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1032,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1033,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1034,36,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1035,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1036,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1037,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1038,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1039,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1040,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1041,39,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1042,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1043,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1044,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1045,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1046,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1047,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1048,65,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1049,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1050,56,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1051,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1052,75,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1053,36,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1054,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1055,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1056,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1057,48,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1058,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1059,48,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1060,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1061,53,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1062,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1063,57,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1064,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1065,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1066,57,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1067,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1068,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1069,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1070,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1071,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1072,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1073,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1074,53,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1075,70,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1076,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1077,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1078,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1079,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1080,43,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1081,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1082,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1083,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1084,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1085,65,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1086,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1087,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1088,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1089,43,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1090,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1091,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1092,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1093,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1094,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1095,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1096,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1097,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1098,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1099,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1100,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1101,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1102,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1103,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1104,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1105,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1106,48,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1107,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1108,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1109,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1110,53,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1111,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1112,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1113,32,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1114,28,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1115,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1116,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1117,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1118,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1119,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1120,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1121,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1122,75,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1123,29,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1124,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1125,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1126,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1127,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1128,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1129,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1130,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1131,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1132,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1133,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1134,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1135,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1136,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1137,32,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1138,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1139,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1140,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1141,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1142,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1143,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1144,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1145,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1146,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1147,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1148,43,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1149,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1150,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1151,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1152,27,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1153,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1154,51,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1155,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1156,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1157,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1158,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1159,30,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1160,48,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1161,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1162,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1163,25,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1164,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1165,49,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms
+1166,77,female,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1167,73,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1168,72,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1169,52,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1170,63,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1171,33,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1172,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1173,54,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1174,72,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1175,60,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1176,64,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1177,47,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1178,52,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1179,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1180,47,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1181,44,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1182,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1183,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1184,48,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1185,46,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1186,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1187,60,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1188,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1189,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1190,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1191,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1192,52,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1193,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1194,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1195,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1196,32,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1197,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1198,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1199,60,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1200,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1201,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1202,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1203,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1204,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1205,65,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1206,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1207,46,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1208,65,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1209,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1210,37,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1211,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1212,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1213,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1214,42,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1215,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1216,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1217,28,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1218,26,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1219,47,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1220,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1221,36,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1222,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1223,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1224,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1225,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1226,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1227,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1228,28,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1229,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1230,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1231,33,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1232,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1233,65,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1234,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1235,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1236,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1237,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1238,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1239,42,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1240,42,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1241,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1242,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1243,65,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1244,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1245,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1246,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1247,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1248,42,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1249,42,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1250,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1251,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1252,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1253,60,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1254,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1255,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1256,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1257,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1258,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1259,36,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1260,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1261,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1262,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1263,36,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1264,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1265,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1266,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1267,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1268,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1269,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1270,39,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1271,60,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1272,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1273,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1274,58,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1275,60,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1276,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1277,65,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1278,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1279,56,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1280,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1281,75,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1282,36,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1283,52,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1284,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1285,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1286,48,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1287,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1288,48,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1289,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1290,53,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1291,58,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1292,57,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1293,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1294,58,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1295,57,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1296,58,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1297,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1298,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1299,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1300,58,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1301,58,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1302,52,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1303,53,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1304,70,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1305,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1306,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1307,42,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1308,42,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1309,43,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1310,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1311,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1312,52,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1313,42,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1314,65,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1315,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1316,60,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1317,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1318,43,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1319,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1320,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1321,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1322,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1323,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1324,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1325,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1326,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1327,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1328,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1329,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1330,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1331,60,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1332,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1333,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1334,42,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1335,48,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1336,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1337,52,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1338,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1339,53,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1340,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1341,52,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1342,32,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1343,28,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1344,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1345,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1346,58,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1347,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1348,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1349,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1350,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1351,75,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1352,29,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1353,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1354,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1355,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1356,42,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1357,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1358,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1359,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1360,42,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1361,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1362,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1363,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1364,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1365,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1366,32,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1367,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1368,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1369,50,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1370,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1371,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1372,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1373,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1374,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1375,55,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1376,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1377,43,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1378,60,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1379,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1380,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1381,27,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1382,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1383,51,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1384,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1385,45,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1386,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1387,40,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1388,30,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1389,48,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1390,38,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1391,58,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1392,25,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1393,35,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1394,49,male,matuail,matuail,8/19/2024,3:30:00 PM,attack 
+1395,77,female,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1396,73,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1397,72,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1398,52,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1399,63,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1400,33,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1401,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1402,54,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1403,72,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1404,60,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1405,64,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1406,47,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1407,52,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1408,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1409,47,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1410,44,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1411,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1412,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1413,48,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1414,46,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1415,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1416,60,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1417,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1418,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1419,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1420,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1421,52,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1422,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1423,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1424,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1425,32,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1426,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1427,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1428,60,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1429,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1430,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1431,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1432,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1433,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1434,65,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1435,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1436,46,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1437,65,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1438,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1439,37,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1440,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1441,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1442,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1443,42,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1444,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1445,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1446,28,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1447,26,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1448,47,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1449,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1450,36,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1451,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1452,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1453,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1454,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1455,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1456,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1457,28,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1458,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1459,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1460,33,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1461,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1462,65,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1463,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1464,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1465,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1466,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1467,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1468,42,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1469,42,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1470,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1471,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1472,65,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1473,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1474,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1475,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1476,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1477,42,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1478,42,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1479,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1480,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1481,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1482,60,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1483,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1484,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1485,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1486,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1487,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1488,36,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1489,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1490,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1491,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1492,36,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1493,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1494,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1495,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1496,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1497,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1498,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1499,39,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1500,60,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1501,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1502,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1503,58,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1504,60,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1505,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1506,65,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1507,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1508,56,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1509,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1510,75,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1511,36,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1512,52,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1513,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1514,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1515,48,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1516,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1517,48,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1518,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1519,53,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1520,58,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1521,57,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1522,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1523,58,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1524,57,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1525,58,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1526,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1527,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1528,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1529,58,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1530,58,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1531,52,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1532,53,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1533,70,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1534,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1535,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1536,42,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1537,42,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1538,43,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1539,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1540,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1541,52,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1542,42,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1543,65,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1544,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1545,60,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1546,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1547,43,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1548,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1549,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1550,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1551,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1552,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1553,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1554,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1555,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1556,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1557,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1558,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1559,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1560,60,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1561,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1562,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1563,42,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1564,48,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1565,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1566,52,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1567,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1568,53,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1569,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1570,52,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1571,32,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1572,28,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1573,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1574,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1575,58,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1576,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1577,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1578,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1579,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1580,75,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1581,29,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1582,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1583,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1584,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1585,42,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1586,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1587,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1588,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1589,42,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1590,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1591,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1592,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1593,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1594,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1595,32,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1596,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1597,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1598,50,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1599,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1600,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1601,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1602,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1603,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1604,55,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1605,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1606,43,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1607,60,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1608,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1609,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1610,27,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1611,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1612,51,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1613,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1614,45,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1615,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1616,40,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1617,30,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1618,48,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1619,38,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1620,58,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1621,25,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1622,35,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1623,49,male,matuail,matuail,8/19/2024,3:30:00 PM,Cocktail explosion 
+1624,77,female,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1625,73,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1626,72,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1627,52,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1628,63,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1629,33,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1630,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1631,54,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1632,72,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1633,60,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1634,64,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1635,47,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1636,52,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1637,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1638,47,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1639,44,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1640,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1641,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1642,48,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1643,46,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1644,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1645,60,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1646,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1647,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1648,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1649,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1650,52,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1651,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1652,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1653,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1654,32,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1655,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1656,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1657,60,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1658,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1659,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1660,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1661,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1662,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1663,65,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1664,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1665,46,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1666,65,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1667,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1668,37,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1669,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1670,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1671,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1672,42,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1673,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1674,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1675,28,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1676,26,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1677,47,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1678,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1679,36,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1680,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1681,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1682,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1683,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1684,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1685,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1686,28,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1687,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1688,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1689,33,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1690,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1691,65,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1692,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1693,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1694,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1695,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1696,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1697,42,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1698,42,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1699,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1700,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1701,65,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1702,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1703,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1704,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1705,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1706,42,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1707,42,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1708,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1709,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1710,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1711,60,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1712,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1713,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1714,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1715,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1716,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1717,36,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1718,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1719,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1720,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1721,36,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1722,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1723,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1724,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1725,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1726,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1727,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1728,39,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1729,60,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1730,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1731,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1732,58,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1733,60,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1734,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1735,65,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1736,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1737,56,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1738,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1739,75,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1740,36,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1741,52,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1742,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1743,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1744,48,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1745,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1746,48,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1747,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1748,53,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1749,58,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1750,57,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1751,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1752,58,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1753,57,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1754,58,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1755,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1756,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1757,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1758,58,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1759,58,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1760,52,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1761,53,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1762,70,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1763,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1764,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1765,42,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1766,42,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1767,43,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1768,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1769,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1770,52,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1771,42,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1772,65,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1773,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1774,60,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1775,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1776,43,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1777,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1778,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1779,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1780,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1781,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1782,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1783,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1784,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1785,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1786,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1787,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1788,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1789,60,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1790,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1791,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1792,42,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1793,48,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1794,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1795,52,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1796,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1797,53,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1798,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1799,52,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1800,32,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1801,28,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1802,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1803,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1804,58,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1805,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1806,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1807,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1808,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1809,75,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1810,29,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1811,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1812,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1813,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1814,42,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1815,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1816,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1817,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1818,42,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1819,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1820,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1821,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1822,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1823,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1824,32,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1825,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1826,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1827,50,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1828,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1829,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1830,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1831,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1832,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1833,55,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1834,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1835,43,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1836,60,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1837,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1838,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1839,27,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1840,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1841,51,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1842,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1843,45,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1844,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1845,40,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1846,30,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1847,48,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1848,38,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1849,58,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1850,25,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1851,35,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1852,49,male,matuail,matuail,8/19/2024,3:30:00 PM,mob attack
+1853,77,female,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1854,73,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1855,72,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1856,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1857,63,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1858,33,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1859,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1860,54,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1861,72,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1862,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1863,64,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1864,47,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1865,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1866,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1867,47,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1868,44,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1869,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1870,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1871,48,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1872,46,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1873,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1874,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1875,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1876,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1877,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1878,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1879,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1880,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1881,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1882,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1883,32,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1884,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1885,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1886,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1887,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1888,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1889,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1890,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1891,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1892,65,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1893,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1894,46,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1895,65,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1896,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1897,37,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1898,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1899,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1900,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1901,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1902,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1903,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1904,28,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1905,26,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1906,47,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1907,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1908,36,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1909,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1910,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1911,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1912,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1913,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1914,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1915,28,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1916,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1917,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1918,33,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1919,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1920,65,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1921,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1922,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1923,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1924,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1925,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1926,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1927,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1928,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1929,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1930,65,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1931,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1932,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1933,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1934,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1935,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1936,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1937,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1938,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1939,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1940,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1941,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1942,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1943,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1944,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1945,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1946,36,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1947,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1948,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1949,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1950,36,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1951,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1952,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1953,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1954,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1955,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1956,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1957,39,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1958,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1959,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1960,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1961,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1962,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1963,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1964,65,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1965,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1966,56,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1967,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1968,75,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1969,36,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1970,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1971,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1972,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1973,48,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1974,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1975,48,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1976,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1977,53,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1978,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1979,57,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1980,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1981,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1982,57,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1983,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1984,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1985,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1986,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1987,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1988,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1989,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1990,53,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1991,70,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1992,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1993,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1994,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1995,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1996,43,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1997,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1998,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+1999,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2000,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2001,65,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2002,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2003,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2004,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2005,43,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2006,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2007,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2008,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2009,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2010,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2011,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2012,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2013,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2014,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2015,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2016,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2017,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2018,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2019,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2020,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2021,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2022,48,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2023,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2024,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2025,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2026,53,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2027,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2028,52,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2029,32,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2030,28,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2031,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2032,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2033,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2034,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2035,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2036,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2037,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2038,75,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2039,29,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2040,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2041,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2042,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2043,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2044,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2045,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2046,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2047,42,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2048,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2049,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2050,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2051,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2052,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2053,32,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2054,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2055,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2056,50,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2057,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2058,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2059,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2060,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2061,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2062,55,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2063,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2064,43,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2065,60,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2066,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2067,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2068,27,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2069,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2070,51,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2071,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2072,45,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2073,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2074,40,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2075,30,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2076,48,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2077,38,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2078,58,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2079,25,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2080,35,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply
+2081,49,male,matuail,matuail,8/19/2024,3:30:00 PM,illegal arms supply

@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/data",
+        "./src/visualizations",
+        "./src/features",
+        "./src/models"
+    ]
+}

@@ -1,0 +1,13 @@
+Objectives:
+ -predict crime trends over future time periods
+ -identify which crime is most likely to occur
+ -identify crime timestamps for sequence modeling
+ -identify all static features
+ -Regression output for forecasting trends
+ -Classification output for predicitng the most frequent crime type
+
+Data cleaning and pre-processing:
+ -Imputed missing numerical values (e.g., age) using median or mean imputation.
+ -Using a column transformer to handle preprocessing for numerical and categorical data together by means of a pipeline where instead of processing each subset of features separately and then concatenating the results manually, 
+  the column transformer will define all transformations in one step, ensuring that transformations were applide consistently during both training and inference.
+ -Embedding layers were used  
